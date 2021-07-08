@@ -1,0 +1,1 @@
+Week 5's project follows on from week 4.  We already deployed the model in week 4. In week 5, we tested the app deployed on Heroku using Postman.  The results are documented in snapshots_document.pdf. 
